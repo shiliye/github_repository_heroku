@@ -3,8 +3,8 @@ import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.Ma
 ooo
-ppp【】
-【】【】public class Main {
+ppp111
+public class Main {
 
   public static void main(String[] args) {
    
